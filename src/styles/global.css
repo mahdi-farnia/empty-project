@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: #f0f0f0;
+}
+
+li {
+  list-style: none;
+}
+
+button,
+input,
+textarea,
+dialog {
+  border: none;
+  outline: none; /** not good for accessibility */
+}
+
+button {
+  cursor: pointer;
+  user-select: none;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  display: block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  pointer-events: none;
+  user-select: none;
+  margin: 0 auto;
+}
+
+.clear-ico {
+  background-image: url('../assets/clear.svg');
+}
+
+.multiply-ico {
+  background-image: url('../assets/multiply.svg');
+}
