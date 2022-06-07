@@ -19,6 +19,6 @@ This project inspired by [muhammad Fadli](https://dribbble.com/shots/14734566-Ca
 ## Todos
 
 - [x] Add Markup And Style
-- [] Add Calculate Availabilty
-- [] Add Calculation History
-- [] Add Keyboard Support
+- [ ] Add Calculate Availabilty
+- [ ] Add Calculation History
+- [ ] Add Keyboard Support
